@@ -16,6 +16,7 @@ $ git clone https://github.com/darkboss1/darkboss1-xploit.git
 $ cd darkboss1-xploit
 $ chmod +x install.sh
 $ sudo ./install.sh
+$ Run Command
 $ bash darkboss1-xploit.sh
 ```
 
