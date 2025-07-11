@@ -29,7 +29,7 @@ logo () {
   \t
   \t
        \033[1;36m--=By: darkboss1 h.a.c k_008=--     
-";
+";	\033[1;36m--=Contact:t.me/darkboss1bd h.a.c k_009=--
 
 }
 
